@@ -1,0 +1,9 @@
+C:\Users\chodges\Downloads\Trooper_Assignment\CoreApp\CoreApp\bin\Debug\CoreApp.exe.config
+C:\Users\chodges\Downloads\Trooper_Assignment\CoreApp\CoreApp\bin\Debug\CoreApp.exe
+C:\Users\chodges\Downloads\Trooper_Assignment\CoreApp\CoreApp\bin\Debug\CoreApp.pdb
+C:\Users\chodges\Downloads\Trooper_Assignment\CoreApp\CoreApp\bin\Debug\SharpTrooper.dll
+C:\Users\chodges\Downloads\Trooper_Assignment\CoreApp\CoreApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chodges\Downloads\Trooper_Assignment\CoreApp\CoreApp\bin\Debug\SharpTrooper.pdb
+C:\Users\chodges\Downloads\Trooper_Assignment\CoreApp\CoreApp\obj\Debug\CoreApp.csprojResolveAssemblyReference.cache
+C:\Users\chodges\Downloads\Trooper_Assignment\CoreApp\CoreApp\obj\Debug\CoreApp.exe
+C:\Users\chodges\Downloads\Trooper_Assignment\CoreApp\CoreApp\obj\Debug\CoreApp.pdb

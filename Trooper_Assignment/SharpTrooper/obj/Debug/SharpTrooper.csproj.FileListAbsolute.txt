@@ -1,0 +1,6 @@
+C:\Users\chodges\Downloads\Trooper_Assignment\SharpTrooper\bin\Debug\SharpTrooper.dll
+C:\Users\chodges\Downloads\Trooper_Assignment\SharpTrooper\bin\Debug\SharpTrooper.pdb
+C:\Users\chodges\Downloads\Trooper_Assignment\SharpTrooper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chodges\Downloads\Trooper_Assignment\SharpTrooper\obj\Debug\SharpTrooper.csprojResolveAssemblyReference.cache
+C:\Users\chodges\Downloads\Trooper_Assignment\SharpTrooper\obj\Debug\SharpTrooper.dll
+C:\Users\chodges\Downloads\Trooper_Assignment\SharpTrooper\obj\Debug\SharpTrooper.pdb
