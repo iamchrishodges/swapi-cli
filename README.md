@@ -1,5 +1,5 @@
 # swapi-cli
-This project demonstrates a simple implementation of requesting resources from a RESTful API thorugh C#.
+This project demonstrates a simple implementation of requesting resources from a RESTful API through C#.
 
 
 # Contents 
@@ -43,6 +43,7 @@ An optional *-t* flag can be added as a fourth argument which will run requests 
 
 # Notes about performance
 
-The biggest performance hog in this application is retrieving the JSON for the film and converting the JSON to actual entities. Potentially, some of the objects not required for the challenge could be ingored from the JSON but this would limit the functionality should requirements change and additional film entities be desired. Overall, in a produciton application, I would provide additional logging to the user to show that some work is being performed behind the scenes. I did create a very simple "error" handling class to centralize the storage of error messages that are currently used whenever the application should terminate due to unexpected behavior.
+The biggest performance hog in this application is retrieving the JSON for the film and converting the JSON to C# Objects. Potentially, some of the objects that are not required could be ignored from the JSON but this would limit the functionality should requirements change and additional film entities be desired. Overall, in a production application, I would provide additional logging to the user to show that some work is being performed behind the scenes. In order to maintain the desired output displayed in the prompt, I left these messages out of the project. I did create a very simple "error" handling class to centralize the storage of error messages that are currently used whenever the application should terminate due to unexpected behavior.
 
-In regards to requesting resources for the Entity, I tested a few different single thread and multi thread options and the single thread option proved to work best on my computer. 
+In regards to requesting resources for the Entity, I tested a few different single thread and multi thread options and the single thread option proved to work best on my computer. The additional command line argument allows for both options to be tested and, by default, the single thread option will be used.
+
